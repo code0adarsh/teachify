@@ -1,27 +1,23 @@
-![3D-school(1)-Cover](https://github.com/theringsofsaturn/3d-ai-school-threejs/assets/60050952/0349d7bf-7e18-4101-b018-4c15a1be4a3d)
-
-# 3D AI Classroom
-This project is a 3D AI classroom application built using Three.js, React Three Fiber, and the OpenAI API. It provides an immersive learning experience with an AI-powered teacher that can engage in interactive conversations with users.
+# Teachify: A 3D Interactive Learning Platform
+Teachify is an innovative, next-generation educational platform designed to revolutionize online learning. Built using state-of-the-art technologies like Three.js, React, Express.js, and Google Gemini AI, Teachify provides an immersive, interactive, and smart learning experience.
 
 # Features
 - 3D classroom environment created with Blender
-- AI-powered teacher avatar with chat capabilities
+- AI-powered teacher with chat capabilities
 - Animated 3D models using Mixamo
 - Voice recognition and text-to-speech integration
 - Chat history feature
 - Express.js server for handling API requests
-- Technologies Used
 - Three.js
 - React Three Fiber
-- OpenAI API
+- Gemini API
 - Blender
-- Mixamo
 - Express.js
 
 # Getting Started
 Clone the repository: git clone [repository-url]
 Install dependencies: npm install
-Set up the OpenAI API key in a .env file
+Set up the Gemini API key in a .env file
 Start the development server: npm start
 start the proxy server: node proxy.js
 Open the application in your browser: http://localhost:3000
@@ -37,11 +33,4 @@ Contributions are welcome! If you have any suggestions, improvements, or bug fix
 
 # License
 This project is licensed under the MIT License.
-
-# Contact
-For any questions or inquiries, please contact Emilian Kasemi at emiliankasemi@gmail.com.
-
-# Connect with me
-LinkedIn: https://www.linkedin.com/in/emilian-kasemi/
-YouTube: https://www.youtube.com/c/EmilianKasemi
-
+https://youtu.be/6_5l24xkoeg
