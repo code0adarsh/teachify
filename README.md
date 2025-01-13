@@ -1,3 +1,9 @@
+## Classroom Image
+![Classroom](./src/assets/classrom.png)
+## AI Assistant Image
+![Ask AI](./src/assets/ask_ai.png)
+## Output Image
+![Output](./src/assets/output.png)
 # Teachify: A 3D Interactive Learning Platform
 Teachify is an innovative, next-generation educational platform designed to revolutionize online learning. Built using state-of-the-art technologies like Three.js, React, Express.js, and Google Gemini AI, Teachify provides an immersive, interactive, and smart learning experience.
 
